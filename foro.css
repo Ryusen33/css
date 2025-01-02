@@ -1,25 +1,13 @@
 cc { text-align: justify;}
 
-ryu { color: #099FC7; font-weight: bold;}
-    
-ryu2 { color: #3c0; font-style: italic;}
+ryu { color: #099FC7; font-weight: bold;} ryu2 { color: #3c0; font-style: italic;}
 
-yos { color: #f00; font-weight: bold;}
+yos { color: #f00; font-weight: bold;} yos2 { color: #ff0; font-style: italic;}
 
-yos2 { color: #ff0; font-style: italic;}
+xea { color: #c6c; font-weight: bold;} xea2 { color: #f39; font-style: italic;}
 
-xea { color: #c6c; font-weight: bold;}
+ryo { color: #f39f18; font-weight: bold;} ryo2 { color: #f09; font-style: italic;}
 
-xea2 { color: #f39; font-style: italic;}
+kla { color: #c0c; font-weight: bold;} kla2 { color: #f3f; font-style: italic;}
 
-ryo { color: #f39f18; font-weight: bold;}
-
-ryo2 { color: #f09; font-style: italic;}
-
-kla { color: #c0c; font-weight: bold;}
-
-kla2 { color: #f3f; font-style: italic;}
-
-ros { color: #3EF578; font-weight: bold;}
-
-ros2 { color: #10F50A; font-style: italic;}
+ros { color: #3EF578; font-weight: bold;} ros2 { color: #10F50A; font-style: italic;}
